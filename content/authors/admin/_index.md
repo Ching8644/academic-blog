@@ -20,22 +20,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#Interests:
-#- 数据分析
-#- Computational Linguistics
-#- Information Retrieval
+Interests:
+- 数据分析
+- 文本挖掘
+- 阅读笔记
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: 统计学 硕士
+    institution: 华侨大学统计学院
+    year: 2019
+  - course: 统计学 学士
+    institution: 华侨大学统计学院
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +59,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "245001946@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,4 +68,6 @@ email: ""
 #- Visitors
 ---
 
-程思涵，数据分析小白，在此平台，专注于「数据分析」、「文本挖掘」、「读书笔记」等方向的新的整理。
+程思涵，数据分析小白。
+
+将在此平台，专注于「数据分析」、「文本挖掘」、「读书笔记」等方向的心得整理。
