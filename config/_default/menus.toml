@@ -14,17 +14,17 @@
   weight = 20
 
 [[main]]
-  name = "文本挖掘"
+  name = "读书笔记"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "读书笔记"
+  name = "文本挖掘"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "荣誉"
+  name = "项目"
   url = "#award"
   weight = 50
 
