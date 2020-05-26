@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+兴趣爱好:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
