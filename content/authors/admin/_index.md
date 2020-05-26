@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 程思涵
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 统计学 硕士生
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 华侨大学统计学院
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
