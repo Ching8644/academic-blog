@@ -9,24 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "数据分析"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "文本挖掘"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "读书笔记"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "联系我"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
